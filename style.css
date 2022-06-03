@@ -1,0 +1,40 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 50px;
+}
+
+p {
+  width: 45%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+h3,
+h2 {
+  text-decoration: underline;
+}
+
+h2 {
+  width: 40%;
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+  width: 100%;
+}
+
+a {
+  margin-left: 10px;
+}
+
+#home {
+  list-style: none;
+}
+
+li a {
+  text-decoration: none;
+}
